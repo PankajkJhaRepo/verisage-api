@@ -82,7 +82,11 @@ python main.py
 python -m src.main
 ```
 
+3. Test the API:
+```bash
+
 python -m pytest . -s -v --tb=short
+```
 
 The API will be available at `http://localhost:8000`
 
