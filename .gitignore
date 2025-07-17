@@ -1,0 +1,4 @@
+verisage
+.env
+__pycache__/
+*.pyc
